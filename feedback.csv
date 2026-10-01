@@ -1,0 +1,2 @@
+timestamp,text,label,predicted,spam_probability
+2026-09-29T10:10:34,Your bank account has been locked due to suspicious activity. Verify your identity immediately at the link below.,ham,spam,0.5000
